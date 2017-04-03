@@ -1,7 +1,7 @@
 # Sometimes Science is more Art than Science
 <p align="center">
 
-<img width="300" src="https://github.com/crocoducktransgenics/Portfolio-1/raw/master/2015-11-05%2016.21.22.jpg" />
+<img width="=200" src="https://github.com/crocoducktransgenics/Portfolio-1/blob/gh-pages/crocoduck_dark-01.png" />
 </p>
 
 ## Mission Statement
